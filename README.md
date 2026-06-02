@@ -23,32 +23,35 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 ## Bill of Materials (BOM)
 [ClockBOM.csv](https://github.com/user-attachments/files/28500980/ClockBOM.csv)
 
+## Bill of Materials (BOM)
+
+| Reference | Qty | Value | Footprint / Details | Part Link |
+| :--- | :---: | :--- | :--- | :--- |
+| **U1** | 1 | ATmega328P-P | Package_DIP:DIP-28_W7.62mm Microcontroller | [Buy Link](https://www.mouser.in/ProductDetail/Microchip-Technology/ATMEGA328P-PU?qs=K8BHR703ZXguOQv3sKbWcg%3D%3D) |
+| **U2 - U7** | 6 | TPIC6B595 | Package_DIP:DIP-20_W7.62mm Power Shift Register | [Buy Link](https://www.mouser.in/ProductDetail/Texas-Instruments/TPIC6B595N?qs=JHHQeKcAU3Cy7hDGJZD9fw%3D%3D) |
+| **U8** | 1 | L7805 | Package_TO_SOT_THT:TO-220-3_Vertical Regulator | [Buy Link](https://www.mouser.in/ProductDetail/STMicroelectronics/L7805CV?qs=9NrABl3fj%2FqplZAHiYUxWg%3D%3D) |
+| **DS1 - DS4** | 4 | SA18-11EWA | 1.8" Kingbright Red 7-Segment Display | [Buy Link](https://www.mouser.in/ProductDetail/Kingbright/SA18-11EWA?qs=JpELLRhtMc01ud%252BhiiNcbQ%3D%3D) |
+| **DS5, DS6** | 2 | SA08-11GWA | 0.8" Kingbright Green 7-Segment Display | [Buy Link](https://www.mouser.in/ProductDetail/Kingbright/SA08-11GWA?qs=E09Sz5t5voVFPaAyTwzbvg%3D%3D) |
+| **D1** | 1 | 1N5401 | Diode_THT:D_DO-201AD_Horizontal Rectifier | [Buy Link](https://www.mouser.in/ProductDetail/Diotec-Semiconductor/1N5401?qs=OlC7AqGiEDkgsZqkfh5%2F5g%3D%3D) |
+| **Q1** | 1 | 2N3904 | Package_TO_SOT_THT:TO-92_Inline NPN Transistor | [Buy Link](https://www.mouser.in/ProductDetail/onsemi/2N3904BU?qs=or4AE2qAS%252Bd0Jdpn%2F8ktKg%3D%3D) |
+| **F1** | 1 | 2A | Fuse:Fuse_Bourns_MF-RG300 Resettable PTC | [Buy Link](https://www.mouser.in/ProductDetail/Bourns/MF-RG300-0?qs=Zco4Fs67ctclSu06fHwNtw%3D%3D) |
+| **Y1** | 1 | 16Mhz | Crystal:Crystal_HC49-U_Vertical Oscillator | [Buy Link](https://robu.in/product/hc49-s-16mhz-crystal-oscillator-pack-of-5/) |
+| **C1** | 1 | 470uf | Capacitor_THT:CP_Radial_D8.0mm 25V Electrolytic | [Buy Link](https://robu.in/product/470uf-25v-electrolytic-capacitor-pack-of-3/) |
+| **C3** | 1 | 100uf | Capacitor_THT:CP_Radial_D8.0mm 25V Electrolytic | [Buy Link](https://robu.in/product/100uf-25v-radial-aluminum-electrolytic-capacitor/) |
+| **C2, C4-C12, C15** | 11 | 100n | Capacitor_THT:C_Disc 0.1uF Ceramic Disc | [Buy Link](https://robu.in/product/104-0-1uf-ceramic-capacitor-10pcs/) |
+| **C13, C14** | 2 | 22pf | Capacitor_THT:C_Disc 22pF Ceramic Disc | [Buy Link](https://robu.in/product/22pf-ceramic-capacitor-pack-of-10/) |
+| **D2 - D5** | 4 | LED | LED_THT:LED_D5.0mm Red Status Indicator | [Buy Link](https://robu.in/product/5mm-red-led-pack-of-5/) |
+| **R1-R7, R9-R15, R17-R23, R26-R32** | 28 | 390R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/390-ohm-14w-resistor-pack-of-20/) |
+| **R8, R16, R24, R33, R35-R50** | 20 | 620R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/620-ohm-14w-resistor-pack-of-20/) |
+| **R51, R55** | 2 | 1k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/1k-ohm-14w-resistor-pack-of-30/) |
+| **R52** | 1 | 270R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/270-ohm-14w-resistor-pack-of-20/) |
+| **R53, R54** | 2 | 10k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/10k-ohm-14w-resistor-pack-of-30/) |
+| **J1, J4** | 2 | Male Pins | 2.54mm Breakaway Vertical Headers | [Buy Link](https://robu.in/product/40-pin-2-54mm-single-row-male-breakaway-header-strip/) |
+| **J2, J3** | 2 | Sockets | 2.54mm Vertical Female Pin Sockets | [Buy Link](https://robu.in/product/2-54mm-female-header-single-row-40-pins-2-packs/) |
+| **Case Hardware** | 4 | Magnets | N52 Neodymium Disc Magnets (3mm x 2mm) | [Buy Link](https://www.amazon.in/dp/B0BN8PHN9B) |
+| **Case Hardware** | 1 | Glass Sheet | Custom cut clear front panel window (2mm) | [Local Hardware Vendor]() |
+
+### Total Estimated Project Hardware Cost: ~₹5,856.78
 
 
 
-| Reference | Qty | Value | Footprint | Part Link |
-| :--- | :--- | :--- | :--- | :--- |
-| C1, C3 | 2 | 470uf / 100uf | Capacitor_THT:CP_Radial_D8.0mm_P3.50mm | [Mouser India](https://www.mouser.in/c/passive-components/capacitors/aluminum-electrolytic-capacitors/aluminum-electrolytic-capacitors-leaded/) |
-| C2, C4, C5, C6, C7, C8, C9, C10, C11, C12, C15 | 11 | 100n | Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | [DigiKey India](https://www.digikey.in/en/products/filter/ceramic-capacitors/60) |
-| C13, C14 | 2 | 22pf | Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | [DigiKey India](https://www.digikey.in/en/products/filter/ceramic-capacitors/60) |
-| D1 | 1 | 1N5401 | Diode_THT:D_DO-201AD_P15.24mm_Horizontal | [Mouser India](https://www.mouser.in/ProductDetail/Vishay-General-Semiconductor/1N5401-E3-54?qs=AQlKX63v8RvNeuYg%252B06wMw%3D%3D) |
-| D2, D3, D4, D5 | 4 | LED | LED_THT:LED_D5.0mm | [DigiKey India](https://www.digikey.in/en/products/filter/led-indication-discrete/105) |
-| DS1, DS2, DS3, DS4 | 4 | SA18-11EWA | Sa18:My_Big_SA18_Display | [Mouser India](https://www.mouser.in/ProductDetail/Kingbright/SA18-11EWA?qs=JpELLRhtMc01ud%252BhiiNcbQ%3D%3D) |
-| DS5, DS6 | 2 | SA08-11GWA | Clock parts:My_Custom_SA08_Display | [Mouser India](https://www.mouser.in/ProductDetail/Kingbright/SA08-11GWA?qs=E09Sz5t5voVFPaAyTwzbvg%3D%3D) |
-| F1 | 1 | 2A | Fuse:Fuse_Bourns_MF-RG300 | [Mouser India](https://www.mouser.in/ProductDetail/Bourns/MF-RG300-0?qs=Zco4Fs67ctclSu06fHwNtw%3D%3D) |
-| J1 | 1 | Conn_01x02 | Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical | [DigiKey India](https://www.digikey.in/en/products/filter/rectilinear-connectors-headers-male-pins/314) |
-| J2 | 1 | Conn_01x04_Socket | Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical | [DigiKey India](https://www.digikey.in/en/products/filter/rectilinear-connectors-headers-receptacles-female-sockets/315) |
-| J3 | 1 | Conn_01x06_Socket | Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical | [DigiKey India](https://www.digikey.in/en/products/filter/rectilinear-connectors-headers-receptacles-female-sockets/315) |
-| J4 | 1 | Conn_01x06_Pin | Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical | [DigiKey India](https://www.digikey.in/en/products/filter/rectilinear-connectors-headers-male-pins/314) |
-| Q1 | 1 | 2N3904 | Package_TO_SOT_THT:TO-92_Inline | [Mouser India](https://www.mouser.in/ProductDetail/onsemi/2N3904BU?qs=vX9vO70wSnuv0jYvI7Oweg%3D%3D) |
-| R1-R7, R9-R15, R17-R23, R26-R32 | 28 | 390R | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal | [Mouser India](https://www.mouser.in/c/passive-components/resistors/through-hole-resistors/?q=390%20ohm) |
-| R8, R16, R24, R33, R35-R50 | 20 | 620R | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal | [Mouser India](https://www.mouser.in/c/passive-components/resistors/through-hole-resistors/?q=620%20ohm) |
-| R51, R55 | 2 | 1k | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal | [Mouser India](https://www.mouser.in/c/passive-components/resistors/through-hole-resistors/?q=1k%20ohm) |
-| R52 | 1 | 270R | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal | [Mouser India](https://www.mouser.in/c/passive-components/resistors/through-hole-resistors/?q=270%20ohm) |
-| R53, R54 | 2 | 10k | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal | [Mouser India](https://www.mouser.in/c/passive-components/resistors/through-hole-resistors/?q=10k%20ohm) |
-| U1 | 1 | ATmega328P-P | Package_DIP:DIP-28_W7.62mm | [IndiaMART Local](https://www.indiamart.com/proddetail/atmega328p-pu-microcontroller-ic-22352406397.html) / [Mouser](https://www.mouser.in/ProductDetail/Microchip-Technology/ATMEGA328P-PU?qs=9%252BKC7Al7BCpOnw089%252BX7wA%3D%3D) |
-| U2, U3, U4, U5, U6, U7 | 6 | TPIC6B595 | Package_DIP:DIP-20_W7.62mm | [Mouser India](https://www.mouser.in/ProductDetail/Texas-Instruments/TPIC6B595N?qs=o3O7b%2F16kXp%2Fd9063WbX1w%3D%3D) |
-| U8 | 1 | L7805 | Package_TO_SOT_THT:TO-220-3_Vertical | [Mouser India](https://www.mouser.in/ProductDetail/STMicroelectronics/L7805CV?qs=b7gC7679OOnSbhX93R2Wgw%3D%3D) |
-| Y1 | 1 | 16Mhz | Crystal:Crystal_HC49-U_Vertical | [Mouser India](https://www.mouser.in/c/?q=16MHz%20crystal%20HC49-U) |
-| Enclosure Hardware | 1 | Glass Sheet | Custom cut front panel face (2mm) | [Local Hardware/Glass Cutter]() |
-| Enclosure Hardware | 4 | Neodymium Magnets | Tiny N52 disc magnets for door latches | [Amazon India](https://www.amazon.in/s?k=N52+neodymium+magnets+disc) |
