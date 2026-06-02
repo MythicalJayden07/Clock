@@ -25,6 +25,9 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 
 ## Bill of Materials (BOM)
 
+```markdown
+## Bill of Materials (BOM)
+
 | Reference | Qty | Value | Footprint / Details | Part Link |
 | :--- | :---: | :--- | :--- | :--- |
 | **U1** | 1 | ATmega328P-P | Package_DIP:DIP-28_W7.62mm Microcontroller | [Buy Link](https://www.mouser.in/ProductDetail/Microchip-Technology/ATMEGA328P-PU?qs=K8BHR703ZXguOQv3sKbWcg%3D%3D) |
@@ -37,21 +40,23 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 | **F1** | 1 | 2A | Fuse:Fuse_Bourns_MF-RG300 Resettable PTC | [Buy Link](https://www.mouser.in/ProductDetail/Bourns/MF-RG300-0?qs=Zco4Fs67ctclSu06fHwNtw%3D%3D) |
 | **Y1** | 1 | 16Mhz | Crystal:Crystal_HC49-U_Vertical Oscillator | [Buy Link](https://robu.in/product/hc49-s-16mhz-crystal-oscillator-pack-of-5/) |
 | **C1** | 1 | 470uf | Capacitor_THT:CP_Radial_D8.0mm 25V Electrolytic | [Buy Link](https://robu.in/product/470uf-25v-electrolytic-capacitor-pack-of-3/) |
-| **C3** | 1 | 100uf | Capacitor_THT:CP_Radial_D8.0mm 25V Electrolytic | [Buy Link](https://robu.in/product/100uf-25v-radial-aluminum-electrolytic-capacitor/) |
-| **C2, C4-C12, C15** | 11 | 100n | Capacitor_THT:C_Disc 0.1uF Ceramic Disc | [Buy Link](https://robu.in/product/104-0-1uf-ceramic-capacitor-10pcs/) |
-| **C13, C14** | 2 | 22pf | Capacitor_THT:C_Disc 22pF Ceramic Disc | [Buy Link](https://robu.in/product/22pf-ceramic-capacitor-pack-of-10/) |
-| **D2 - D5** | 4 | LED | LED_THT:LED_D5.0mm Red Status Indicator | [Buy Link](https://robu.in/product/5mm-red-led-pack-of-5/) |
-| **R1-R7, R9-R15, R17-R23, R26-R32** | 28 | 390R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/390-ohm-14w-resistor-pack-of-20/) |
-| **R8, R16, R24, R33, R35-R50** | 20 | 620R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/620-ohm-14w-resistor-pack-of-20/) |
-| **R51, R55** | 2 | 1k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/1k-ohm-14w-resistor-pack-of-30/) |
-| **R52** | 1 | 270R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/270-ohm-14w-resistor-pack-of-20/) |
-| **R53, R54** | 2 | 10k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/10k-ohm-14w-resistor-pack-of-30/) |
-| **J1, J4** | 2 | Male Pins | 2.54mm Breakaway Vertical Headers | [Buy Link](https://robu.in/product/40-pin-2-54mm-single-row-male-breakaway-header-strip/) |
-| **J2, J3** | 2 | Sockets | 2.54mm Vertical Female Pin Sockets | [Buy Link](https://robu.in/product/2-54mm-female-header-single-row-40-pins-2-packs/) |
-| **Case Hardware** | 6 | Magnets | N52 Neodymium Disc Magnets (3mm x 2mm) | [Buy Link](https://www.amazon.in/dp/B0BN8PHN9B) |
-| **Case Hardware** | 1 | Glass Sheet | Custom cut clear front panel window (2mm) | [ |
+| **C3** | 1 | 100uf | Capacitor_THT:CP_Radial_D8.0mm 25V Electrolytic | [Buy Link](https://robu.in/?s=100uf+25v+radial+electrolyte+capacitor&post_type=product) |
+| **C2, C4-C12, C15** | 11 | 100n | Capacitor_THT:C_Disc 0.1uF Ceramic Disc | [Buy Link](https://robu.in/?s=104+0.1uf+ceramic+disc+capacitor&post_type=product) |
+| **C13, C14** | 2 | 22pf | Capacitor_THT:C_Disc 22pF Ceramic Disc | [Buy Link](https://robu.in/?s=22pf+ceramic+disc+capacitor&post_type=product) |
+| **D2 - D5** | 4 | LED | LED_THT:LED_D5.0mm Red Status Indicator | [Buy Link](https://robu.in/?s=5mm+red+led+pack&post_type=product) |
+| **R1-R7, R9-R15, R17-R23, R26-R32** | 28 | 390R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=390+ohm+quarter+watt+resistor&post_type=product) |
+| **R8, R16, R24, R33, R35-R50** | 20 | 620R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=620+ohm+quarter+watt+resistor&post_type=product) |
+| **R51, R55** | 2 | 1k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=1k+ohm+quarter+watt+resistor&post_type=product) |
+| **R52** | 1 | 270R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=270+ohm+quarter+watt+resistor&post_type=product) |
+| **R53, R54** | 2 | 10k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=10k+ohm+quarter+watt+resistor&post_type=product) |
+| **J1, J4** | 2 | Male Pins | 2.54mm Breakaway Vertical Headers | [Buy Link](https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/) |
+| **J2, J3** | 2 | Sockets | 2.54mm Vertical Female Pin Sockets | [Buy Link](https://robu.in/?s=2.54mm+female+header+single+row+40+pins&post_type=product) |
+| **Case Hardware** | 4 | Magnets | N52 Neodymium Disc Magnets (3mm x 2mm) | [Buy Link](https://www.amazon.in/dp/B0BN8PHN9B) |
+| **Case Hardware** | 1 | Glass Sheet | Custom cut clear front panel window (2mm) |  |
 
-### Total Estimated Project Hardware Cost: ~₹5,856.78
+### 💰 Total Estimated Project Hardware Cost: ~₹5,856.78
+
+```
 
 
 
