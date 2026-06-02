@@ -21,31 +21,9 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 <img width="848" height="651" alt="Screenshot 2026-06-02 140332" src="https://github.com/user-attachments/assets/c02ae9e7-8038-43bf-92e2-91f7fe5d8b46" />
 
 ## Bill of Materials (BOM)
-[Uploading Clock"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","Check_prices","Price"
-"C1","1","470uf","","","","Capacitor_THT:CP_Radial_D8.0mm_P3.50mm","","",""
-"C2,C4,C5,C6,C7,C8,C9,C10,C11,C12,C15","11","100n","","","","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm","","",""
-"C3","1","100uf","","","","Capacitor_THT:CP_Radial_D8.0mm_P3.50mm","","",""
-"C13,C14","2","22pf","","","","Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm","","",""
-"D1","1","1N5401","","","","Diode_THT:D_DO-201AD_P15.24mm_Horizontal","http://www.vishay.com/docs/88516/1n5400.pdf","",""
-"D2,D3,D4,D5","4","LED","","","","LED_THT:LED_D5.0mm","","",""
-"DS1,DS2,DS3,DS4","4","SA18-11EWA","","","","Sa18:My_Big_SA18_Display","https://componentsearchengine.com/Datasheets/2/SA18-11EWA.pdf","",""
-"DS5,DS6","2","SA08-11GWA","","","","Clock parts:My_Custom_SA08_Display","https://www.kingbrightusa.com/images/catalog/spec/SA08-11GWA.pdf","",""
-"F1","1","2A","","","","Fuse:Fuse_Bourns_MF-RG300","","",""
-"J1","1","Conn_01x02","","","","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","","",""
-"J2","1","Conn_01x04_Socket","","","","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical","","",""
-"J3","1","Conn_01x06_Socket","","","","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","","",""
-"J4","1","Conn_01x06_Pin","","","","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","","",""
-"Q1","1","2N3904","","","","Package_TO_SOT_THT:TO-92_Inline","https://www.onsemi.com/pub/Collateral/2N3903-D.PDF","",""
-"R1,R2,R3,R4,R5,R6,R7,R9,R10,R11,R12,R13,R14,R15,R17,R18,R19,R20,R21,R22,R23,R26,R27,R28,R29,R30,R31,R32","28","390R","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","","",""
-"R8,R16,R24,R33,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50","20","620R","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","","",""
-"R51,R55","2","1k","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","","",""
-"R52","1","270R","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","","",""
-"R53,R54","2","10k","","","","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","","",""
-"U1","1","ATmega328P-P","","","","Package_DIP:DIP-28_W7.62mm","http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf","",""
-"U2,U3,U4,U5,U6,U7","6","TPIC6B595","","","","Package_DIP:DIP-20_W7.62mm","","https://www.snapeda.com/parts/TPIC6B595/Texas+Instruments/view-part/?ref=eda","None"
-"U8","1","L7805","","","","Package_TO_SOT_THT:TO-220-3_Vertical","http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf","",""
-"Y1","1","16Mhz","","","","Crystal:Crystal_HC49-U_Vertical","","",""
-BOM.csv…]()
+[ClockBOM.csv](https://github.com/user-attachments/files/28500980/ClockBOM.csv)
+
+
 
 
 | Reference | Qty | Value | Footprint | Part Link |
