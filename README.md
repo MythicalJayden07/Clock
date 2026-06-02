@@ -48,8 +48,8 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 | **R53, R54** | 2 | 10k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/product/10k-ohm-14w-resistor-pack-of-30/) |
 | **J1, J4** | 2 | Male Pins | 2.54mm Breakaway Vertical Headers | [Buy Link](https://robu.in/product/40-pin-2-54mm-single-row-male-breakaway-header-strip/) |
 | **J2, J3** | 2 | Sockets | 2.54mm Vertical Female Pin Sockets | [Buy Link](https://robu.in/product/2-54mm-female-header-single-row-40-pins-2-packs/) |
-| **Case Hardware** | 4 | Magnets | N52 Neodymium Disc Magnets (3mm x 2mm) | [Buy Link](https://www.amazon.in/dp/B0BN8PHN9B) |
-| **Case Hardware** | 1 | Glass Sheet | Custom cut clear front panel window (2mm) | [Local Hardware Vendor]() |
+| **Case Hardware** | 6 | Magnets | N52 Neodymium Disc Magnets (3mm x 2mm) | [Buy Link](https://www.amazon.in/dp/B0BN8PHN9B) |
+| **Case Hardware** | 1 | Glass Sheet | Custom cut clear front panel window (2mm) | [ |
 
 ### Total Estimated Project Hardware Cost: ~₹5,856.78
 
