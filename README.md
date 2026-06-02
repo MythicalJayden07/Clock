@@ -48,8 +48,8 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 | **R51, R55** | 2 | 1k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=1k+ohm+quarter+watt+resistor&post_type=product) |
 | **R52** | 1 | 270R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=270+ohm+quarter+watt+resistor&post_type=product) |
 | **R53, R54** | 2 | 10k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=10k+ohm+quarter+watt+resistor&post_type=product) |
-| **J1, J4** | 2 | Male Pins | 2.54mm Breakaway Vertical Headers | [Buy Link](https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-short-header-strip-pack-of-3/) |
-| **J2, J3** | 2 | Sockets | 2.54mm Vertical Female Pin Sockets | [Buy Link](https://robu.in/?s=2.54mm+female+header+single+row+40+pins&post_type=product) |
+| **J1, J4** | 2 | Male Pins | 2.54mm Breakaway Vertical Headers | [Buy Link](https://www.digikey.in/en/products/detail/amphenol-cs-fci/68000-402HLF/1493940?s=N4IgTCBcDaIGwA4AMKC0AWJYASAZAYiALoC%2BQA and https://www.digikey.in/en/products/detail/amphenol-cs-fci/68000-406HLF/1878471?s=N4IgTCBcDaIGwA4AMKC0AWJcASAZAYiALoC%2BQA ) |
+| **J2, J3** | 2 | Sockets | 2.54mm Vertical Female Pin Sockets | [Buy Link](https://www.digikey.in/en/products/detail/3m/929974-01-04-RK/1094257 and https://www.digikey.in/en/products/detail/3m/929974-01-06-RK/1094259) |
 | **Case Hardware** | 6 | Magnets | N52 Neodymium Disc Magnets (3mm x 2mm) | [Buy Link](https://www.amazon.in/dp/B0BN8PHN9B) |
 | **Case Hardware** | 1 | Glass Sheet | Custom cut clear front panel window (2mm) |  |
 
