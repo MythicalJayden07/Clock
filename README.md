@@ -25,7 +25,6 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 
 ## Bill of Materials (BOM)
 
-```markdown
 ## Bill of Materials (BOM)
 
 | Reference | Qty | Value | Footprint / Details | Part Link |
@@ -54,7 +53,8 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 | **Case Hardware** | 4 | Magnets | N52 Neodymium Disc Magnets (3mm x 2mm) | [Buy Link](https://www.amazon.in/dp/B0BN8PHN9B) |
 | **Case Hardware** | 1 | Glass Sheet | Custom cut clear front panel window (2mm) |  |
 
-### 💰 Total Estimated Project Hardware Cost: ~₹5,856.78
+###  Total Estimated Project Hardware Cost: ~₹5,856.78
+
 
 ```
 
