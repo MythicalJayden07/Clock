@@ -53,7 +53,7 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 | **Case Hardware** | 6 | Magnets | N52 Neodymium Disc Magnets (3mm x 2mm) | [Buy Link](https://www.amazon.in/dp/B0BN8PHN9B) |
 | **Case Hardware** | 1 | Glass Sheet | Custom cut clear front panel window (2mm) |  |
 
-###  Total Estimated Project Hardware Cost: ~₹5,856.78
+
 
 
 ```
