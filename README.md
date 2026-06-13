@@ -1,4 +1,4 @@
-[ClockBOM.csv](https://github.com/user-attachments/files/28500934/ClockBOM.csv)# Clock
+
 
 # 6-Digit 7-Segment Display Clock
 This is a custom digital clock featuring a 6-digit 7-segment display packed into a clean, rectangular desktop case. I designed this to blend custom 3D-printed mechanics with a sleek, premium look by keeping the messy electronics hidden and using a real glass front panel.
