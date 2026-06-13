@@ -23,9 +23,6 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 ## Bill of Materials (BOM)
 [ClockBOM.csv](https://github.com/user-attachments/files/28500980/ClockBOM.csv)
 
-## Bill of Materials (BOM)
-
-## Bill of Materials (BOM)
 
 | Reference | Qty | Value | Footprint / Details | Part Link |
 | :--- | :---: | :--- | :--- | :--- |
@@ -43,11 +40,11 @@ The rectangular housing featuring the integrated top hinge and embedded slots fo
 | **C2, C4-C12, C15** | 11 | 100n | Capacitor_THT:C_Disc 0.1uF Ceramic Disc | [Buy Link](https://robu.in/?s=104+0.1uf+ceramic+disc+capacitor&post_type=product) |
 | **C13, C14** | 2 | 22pf | Capacitor_THT:C_Disc 22pF Ceramic Disc | [Buy Link](https://robu.in/?s=22pf+ceramic+disc+capacitor&post_type=product) |
 | **D2 - D5** | 4 | LED | LED_THT:LED_D5.0mm Red Status Indicator | [Buy Link](https://robu.in/?s=5mm+red+led+pack&post_type=product) |
-| **R1-R7, R9-R15, R17-R23, R26-R32** | 28 | 390R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=390+ohm+quarter+watt+resistor&post_type=product) |
-| **R8, R16, R24, R33, R35-R50** | 20 | 620R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=620+ohm+quarter+watt+resistor&post_type=product) |
-| **R51, R55** | 2 | 1k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=1k+ohm+quarter+watt+resistor&post_type=product) |
-| **R52** | 1 | 270R | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=270+ohm+quarter+watt+resistor&post_type=product) |
-| **R53, R54** | 2 | 10k | Resistor_THT:R_Axial 1/4W Carbon Film | [Buy Link](https://robu.in/?s=10k+ohm+quarter+watt+resistor&post_type=product) |
+| **R1-R7, R9-R15, R17-R23, R26-R32** | 28 | 390R | Resistor_THT:R_Axial 1/4W Carbon Film | (https://robu.in/?s=390+ohm+quarter+watt+resistor&post_type=product) |
+| **R8, R16, R24, R33, R35-R50** | 20 | 620R | Resistor_THT:R_Axial 1/4W Carbon Film | (https://robu.in/?s=620+ohm+quarter+watt+resistor&post_type=product) |
+| **R51, R55** | 2 | 1k | Resistor_THT:R_Axial 1/4W Carbon Film | (https://robu.in/?s=1k+ohm+quarter+watt+resistor&post_type=product) |
+| **R52** | 1 | 270R | Resistor_THT:R_Axial 1/4W Carbon Film | (https://robu.in/?s=270+ohm+quarter+watt+resistor&post_type=product) |
+| **R53, R54** | 2 | 10k | Resistor_THT:R_Axial 1/4W Carbon Film | (https://robu.in/?s=10k+ohm+quarter+watt+resistor&post_type=product) |
 | **J1, J4** | 2 | Male Pins | 2.54mm Breakaway Vertical Headers | [Buy Link](https://www.digikey.in/en/products/detail/amphenol-cs-fci/68000-402HLF/1493940?s=N4IgTCBcDaIGwA4AMKC0AWJYASAZAYiALoC%2BQA and https://www.digikey.in/en/products/detail/amphenol-cs-fci/68000-406HLF/1878471?s=N4IgTCBcDaIGwA4AMKC0AWJcASAZAYiALoC%2BQA ) |
 | **J2, J3** | 2 | Sockets | 2.54mm Vertical Female Pin Sockets | [Buy Link](https://www.digikey.in/en/products/detail/3m/929974-01-04-RK/1094257 and https://www.digikey.in/en/products/detail/3m/929974-01-06-RK/1094259) |
 | **Case Hardware** | 6 | Magnets | N52 Neodymium Disc Magnets (3mm x 2mm) | [Buy Link](https://www.amazon.in/dp/B0BN8PHN9B) |
